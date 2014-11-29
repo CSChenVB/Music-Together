@@ -31,7 +31,7 @@ body {
 }
 
 
-/*宇軒buttom*/
+/*宇軒buttom*//*
 .subm button
 {
 	overflow: visible;
@@ -71,7 +71,7 @@ body {
 	top: 12px;
 	left: -6px;
 }*/
- 
+ /*
 .subm button:hover:before
 {
 	border-right-color: #e54040;
@@ -83,4 +83,4 @@ body {
     border-right-color: #c42f2f;
 }
 /*宇軒buttom*/  
-  
+
